@@ -1,0 +1,10 @@
+
+h1 {color:royalblue;}
+img {width: 400px; }
+#thirdDiv{ height:600; 
+           width:500; 
+           background: rgb(19, 134, 149);
+           padding: 50px;
+           border:1px blue solid; }
+#spanId{font-size: 18px;
+        margin: 50px; }
